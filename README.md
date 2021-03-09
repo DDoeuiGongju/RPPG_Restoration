@@ -1,1 +1,1 @@
-# RPPG_Restoration
+# PPG_Restoration
